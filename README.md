@@ -19,7 +19,8 @@ This process consists of three steps:
 		1. Each observation forms a row
 		1. Each type of observational unit forms a table
 1. Cleaning data
-	* Delete retweets in twitter_dogs
+	* Quality Issues
+	 	1. Delete retweets in twitter_dogs
 		1. Convert timestamp from string to datatime
 		1. Convert the lowercase and invalid  names to None
 		1. Delete row with the rating_denominator of an invalid value
