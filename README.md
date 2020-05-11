@@ -56,7 +56,7 @@ For more details and code, check the `wrangle_act.ipynb` notebook.
 
 ### References
 * [Analyzing Twitter Data](https://github.com/vprusso/youtube_tutorials/blob/master/twitter_python/part_3_analyzing_tweet_data/analyzing_twitter_data.py)
-* [Gather data from twitter API](Source: https://github.com/chelseymarie6/Wrangle-and-Analyze-Data/blob/master/wrangle_act.ipynb)
+* [Gather data from twitter API](https://github.com/chelseymarie6/Wrangle-and-Analyze-Data/blob/master/wrangle_act.ipynb)
 * [Merging Multiple Dataframes](https://stackoverflow.com/questions/23668427/pandas-three-way-joining-multiple-dataframes-on-columns)
 * [Extract information using regular expression](https://www.youtube.com/watch?v=K8L6KVGG-7o)
 * [Create new columns](https://github.com/StefaniePowazny/Wrangle-and-Analyze-Data/blob/master/wrangle_act.ipynb)
