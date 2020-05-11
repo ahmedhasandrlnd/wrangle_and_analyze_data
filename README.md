@@ -47,7 +47,7 @@ For details and code, check the `wrangle_act.ipynb` notebook and `wrangle_report
 For more details and code, check the `wrangle_act.ipynb` notebook and `act_report.pdf` file.
 
 ### Files
-* `wrangle_act.ipynb`: code for gathering, assessing, cleaning, analyzing, and visualizing data
+* `wrangle_act.ipynb`: code for gathering, assessing, cleaning, analyzing, and visualizing data. If you are having trouble opening the file, use this [Alternate link](https://nbviewer.jupyter.org/github/ahmedhasandrlnd/wrangle_and_analyze_data/blob/master/wrangle_act.ipynb).
 * `wrangle_report.pdf`: documentation for data wrangling steps: gather, assess, and clean
 * `act_report.pdf`: documentation of analysis and insights into final data
 * `twitter_archive_enhanced.csv`: file as given
