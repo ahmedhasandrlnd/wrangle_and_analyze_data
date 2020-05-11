@@ -34,7 +34,7 @@ This process consists of three steps:
 		1. Extract dog breed and prediction confidence into two columns
 		1. Drop unnecessary columns
 
-For details and code, check the `wrangle_act.ipynb` notebook.
+For details and code, check the `wrangle_act.ipynb` notebook and `wrangle_report.pdf` file.
 
 ### Visualizing Data:
 	* What is the monthly number of tweets?
@@ -43,7 +43,7 @@ For details and code, check the `wrangle_act.ipynb` notebook.
 	* What are the most tweeted dog breeds and dog names?
 	* How confident our breed predictions were?
 
-For more details and code, check the `wrangle_act.ipynb` notebook.
+For more details and code, check the `wrangle_act.ipynb` notebook and `act_report.pdf` file.
 
 ### Files
 * `wrangle_act.ipynb`: code for gathering, assessing, cleaning, analyzing, and visualizing data
