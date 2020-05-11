@@ -45,4 +45,20 @@ For details and code, check the `wrangle_act.ipynb` notebook.
 
 For more details and code, check the `wrangle_act.ipynb` notebook.
 
+### Files
+`wrangle_act.ipynb`: code for gathering, assessing, cleaning, analyzing, and visualizing data
+`wrangle_report.pdf`: documentation for data wrangling steps: gather, assess, and clean
+`act_report.pdf`: documentation of analysis and insights into final data
+`twitter_archive_enhanced.csv`: file as given
+`image_predictions.tsv`: file downloaded programmatically
+`tweet_json.txt`: file constructed via API
+`twitter_archive_master.csv`: combined and cleaned data
+
+### References
+* [Analyzing Twitter Data](https://github.com/vprusso/youtube_tutorials/blob/master/twitter_python/part_3_analyzing_tweet_data/analyzing_twitter_data.py)
+* [Gather data from twitter API](Source: https://github.com/chelseymarie6/Wrangle-and-Analyze-Data/blob/master/wrangle_act.ipynb)
+* [Merging Multiple Dataframes](https://stackoverflow.com/questions/23668427/pandas-three-way-joining-multiple-dataframes-on-columns)
+* [Extract information using regular expression](https://www.youtube.com/watch?v=K8L6KVGG-7o)
+* [Create new columns](https://github.com/StefaniePowazny/Wrangle-and-Analyze-Data/blob/master/wrangle_act.ipynb)
+
 
