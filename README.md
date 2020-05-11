@@ -33,5 +33,16 @@ This process consists of three steps:
 		1. Create one column for the various dog stages: doggo, floofer, pupper, puppo
 		1. Extract dog breed and prediction confidence into two columns
 		1. Drop unnecessary columns
+
 For details and code, check the `wrangle_act.ipynb` notebook.
+
+### Visualizing Data:
+	* What is the monthly number of tweets?
+	* What is the correlation between favorite counts and retweet counts?
+	* What is the most used source for tweeting?
+	* What are the most tweeted dog breeds and dog names?
+	* How confident our breed predictions were?
+
+For more details and code, check the `wrangle_act.ipynb` notebook.
+
 
